@@ -16,5 +16,6 @@ public class HEllo {
     public static void main(String[] args) {
         HEllo hEllo = new HEllo();
         System.out.println(hEllo.add(3, 2));
+        System.out.println("push test");
     }
 }
